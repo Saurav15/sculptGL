@@ -10,6 +10,11 @@ SculptGL is a powerful and intuitive web-based sculpting application that allows
 - **Export Options**: Save your creations in different formats for use in other applications.
 - **Customizable Interface**: Personalize the workspace to suit your workflow.
 
+# DEMO
+
+https://github.com/user-attachments/assets/6a73d07b-0abb-4d7f-96ce-94f6beb55691
+
+
 ## Getting Started
 
 ### Prerequisites
